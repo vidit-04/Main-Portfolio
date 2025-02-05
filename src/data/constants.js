@@ -11,8 +11,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/vidit-04",
-  resume:
-    "https://drive.google.com/file/d/16RtPiuHNn8hHwLtXgNsSM9Wz5GisJh5h/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1qBOFHIXowhI9F8kP3Jcv4-xe_Nl7vYrk/view?usp=sharing",
   linkedin: "www.linkedin.com/in/vidit2004",
   twitter: "https://x.com/ViditGu62507551",
   insta: "https://www.instagram.com/its_vidit_gupta/",
